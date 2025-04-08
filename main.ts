@@ -25,6 +25,14 @@ namespace mintspark_dobot_agent {
         radio.sendValue("STOP", 0);
     }
 
+    //% weight=75
+    //% group="Move"
+    //% block="Wait for %waitMs ms"
+    //% color=#1e90ff
+    export function wait(waitMs: number): void {
+        radio.sendValue("WAIT", waitMs);
+    }
+
     //% weight=70
     //% group="Move"
     //% block="Move to position %position jump %jump"
