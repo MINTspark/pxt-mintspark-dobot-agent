@@ -9,7 +9,8 @@
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "_locales/de/pxt-mintspark-dobot-agent-strings.json"
     ],
     "testFiles": [
         "test.ts"

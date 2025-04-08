@@ -1,5 +1,5 @@
 //% weight=100 color=#DC22E1 block="MINTspark DOBOT Agent" blockId="MINTspark DOBOT Agent" icon="\uf0e7"
-//% groups='["Setup", "Move"]'
+//% groups='["Setup", "Move", "Effector"]'
 namespace mintspark_dobot_agent {
     //% weight=100
     //% group="Setup"

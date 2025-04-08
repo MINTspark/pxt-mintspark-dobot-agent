@@ -1,0 +1,13 @@
+{
+    "mintspark_dobot_agent.setCommChannel|block": "Komm. Kanal einstellen %channel",
+    "mintspark_dobot_agent.moveToStart|block": "Zum Start fahren",
+    "mintspark_dobot_agent.stop|block": "Stop",
+    "mintspark_dobot_agent.wait|block": "Warten für %waitMs ms",
+    "mintspark_dobot_agent.moveToPosition|block": "Fahre zu Position %position springen %jump",
+    "mintspark_dobot_agent.grip|block": "Schließen / Saugen",
+    "mintspark_dobot_agent.open|block": "Öffnen / Abstoßen",
+    "mintspark_dobot_agent.pumpOff|block": "Pumpe ausschalten",
+    "{id:group}Setup": "Setup",
+    "{id:group}Effector": "Effektor",
+    "{id:group}Move": "Bewegen"
+}
